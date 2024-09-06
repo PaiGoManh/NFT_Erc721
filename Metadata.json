@@ -1,0 +1,42 @@
+[
+  {
+    "description": "computer image having blue colour", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://gold-traditional-hyena-782.mypinata.cloud/ipfs/QmTMcfzTHGhVCH3S15ZQB3v6LkYWrqLE8BarEqR3bJRp5e", 
+    "name": "E Computer",
+    "attributes": [ 
+      {
+      "trait_type": "image", 
+      "value": "computer"
+      }, 
+      {
+        "trait_type": "colour", 
+        "value": "Navy Blue"
+      }, 
+      {
+        "trait_type": "Top Left", 
+        "value": "Certificate"
+      }  
+    ]
+  },
+  {
+    "description": "navy blue background", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://gold-traditional-hyena-782.mypinata.cloud/ipfs/QmaENTLqwvcxotctbCKeqzjVgo8beKRM9iLds9QiRDP7vA", 
+    "name": "blue background image",
+    "attributes": [ 
+      {
+      "trait_type": "style", 
+      "value": "wave style"
+      }, 
+      {
+        "trait_type": "style colour", 
+        "value": "white"
+      }, 
+      {
+        "trait_type": "colour", 
+        "value": "Navy Blue"
+      }  
+    ]
+  }
+]
